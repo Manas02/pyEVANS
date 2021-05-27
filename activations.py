@@ -289,3 +289,8 @@ def leaky_relu(x, alpha=0.2):
     """
     return np.maximum(0, x) + alpha * np.minimum(0, x)
 
+
+def log_softmax(x):
+    # FIXME: Seems to produce incorrect result.
+    return np.log(softmax(x))
+    # !!!!!!!!!!!!DOES NOT GIVE CORRECT RETURN!!!!!!!!
