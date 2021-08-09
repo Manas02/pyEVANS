@@ -1,5 +1,6 @@
 # pyEVANS
 ```.
+.
 ├── Data
 │   ├── external
 │   │   ├── Dataset_1.tsv
@@ -34,38 +35,37 @@
 │   │   ├── main7.cif
 │   │   ├── main8.cif
 │   │   └── main9.cif
-│   ├── processed
-│   │   ├── descriptors.csv
-│   │   ├── min_main1.cif
-│   │   ├── min_main10.cif
-│   │   ├── min_main11.cif
-│   │   ├── min_main12.cif
-│   │   ├── min_main13.cif
-│   │   ├── min_main14.cif
-│   │   ├── min_main15.cif
-│   │   ├── min_main16.cif
-│   │   ├── min_main17.cif
-│   │   ├── min_main18.cif
-│   │   ├── min_main19.cif
-│   │   ├── min_main2.cif
-│   │   ├── min_main20.cif
-│   │   ├── min_main21.cif
-│   │   ├── min_main22.cif
-│   │   ├── min_main23.cif
-│   │   ├── min_main24.cif
-│   │   ├── min_main25.cif
-│   │   ├── min_main26.cif
-│   │   ├── min_main27.cif
-│   │   ├── min_main28.cif
-│   │   ├── min_main29.cif
-│   │   ├── min_main3.cif
-│   │   ├── min_main4.cif
-│   │   ├── min_main5.cif
-│   │   ├── min_main6.cif
-│   │   ├── min_main7.cif
-│   │   ├── min_main8.cif
-│   │   └── min_main9.cif
-│   └── raw
+│   └── processed
+│       ├── descriptors.csv
+│       ├── min_main1.cif
+│       ├── min_main10.cif
+│       ├── min_main11.cif
+│       ├── min_main12.cif
+│       ├── min_main13.cif
+│       ├── min_main14.cif
+│       ├── min_main15.cif
+│       ├── min_main16.cif
+│       ├── min_main17.cif
+│       ├── min_main18.cif
+│       ├── min_main19.cif
+│       ├── min_main2.cif
+│       ├── min_main20.cif
+│       ├── min_main21.cif
+│       ├── min_main22.cif
+│       ├── min_main23.cif
+│       ├── min_main24.cif
+│       ├── min_main25.cif
+│       ├── min_main26.cif
+│       ├── min_main27.cif
+│       ├── min_main28.cif
+│       ├── min_main29.cif
+│       ├── min_main3.cif
+│       ├── min_main4.cif
+│       ├── min_main5.cif
+│       ├── min_main6.cif
+│       ├── min_main7.cif
+│       ├── min_main8.cif
+│       └── min_main9.cif
 ├── Docs
 ├── LICENSE
 ├── Model
@@ -86,5 +86,4 @@
     │   ├── predict_model.py
     │   └── train_model.py
     └── visualization
-        └── visualize.py
-```
+        └── visualize.py```
