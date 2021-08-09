@@ -1,6 +1,5 @@
 # pyEVANS
-```.
-.
+```
 ├── Data
 │   ├── external
 │   │   ├── Dataset_1.tsv
